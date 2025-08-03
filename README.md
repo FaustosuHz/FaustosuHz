@@ -3,7 +3,7 @@
     <td>
       <p align="left">
         <strong>Hello, welcome to my profile, I’m glad you’re here!</strong><br><br><br>
-        I invite you to visit my repository <a href="https://github.com/faustosuhz/royal-waterways" target="_blank">royal-waterways</a> where I upload the projects I develop while attending university.
+        I invite you to visit my repository <a href="https://github.com/faustosuhz/royal-waterways" target="_blank">royal-waterways</a> where I upload the projects I develop while attending university. I also encourage you to check out the videos for each project that I’ve attached in their respective README files.
       </p>
     </td>
     <td>
@@ -11,6 +11,7 @@
     </td>
   </tr>
 </table>
+
 
 <h3 align="left">Languages and Tools:</h3>
 
