@@ -2,8 +2,8 @@
   <tr>
     <td>
       <p align="left">
-        <strong>Hola, bienvenido a mi perfil.</strong><br>
-        Me alegra que estés por acá! Te invito a visitar mi repositorio <a href="https://github.com/faustosuhz/royal-waterways" target="_blank">royal-waterways</a> donde voy subiendo los proyectos que desarrollo mientras curso la universidad
+        <strong>Hola, bienvenido a mi perfil, me alegra que estés por acá! </strong><br>
+        Te invito a visitar mi repositorio <a href="https://github.com/faustosuhz/royal-waterways" target="_blank">royal-waterways</a> donde voy subiendo los proyectos que desarrollo mientras curso la universidad
       </p>
     </td>
     <td>
