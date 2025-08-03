@@ -2,7 +2,7 @@
   <tr>
     <td>
       <p align="left">
-        <strong>Hola, bienvenido a mi perfil, me alegra que estés por acá! </strong><br>
+        <strong>Hola, bienvenido a mi perfil, me alegra que estés por acá! </strong><br><br><br>
         Te invito a visitar mi repositorio <a href="https://github.com/faustosuhz/royal-waterways" target="_blank">royal-waterways</a> donde voy subiendo los proyectos que desarrollo mientras curso la universidad
       </p>
     </td>
